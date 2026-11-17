@@ -27,6 +27,8 @@ No price changes, spending, or publishing without Moondog88's own OK.
 
 6. **Santa Paws samples: prep only.** Get the 3 Santa Paws samples (tee, bandana, ornament) ready in Printify: confirm products, providers, and real costs. **Do not place the order.** Placing a Printify sample order costs money and needs Moondog88's own OK. Older notes in the shared notebook said the 3 samples were approved; the current order is prep only until he says yes again.
 
+7. **[ETSY] ~10 new designs plus personalized pet drafts (added Nov 17, cleared through Nov 22).** Moondog88 wants to push hard for Cyber Week. Make about 10 new dog/doodle designs (gift-led: Doodle Mom/Dad, Christmas, funny dog-parent lines, matching human tee + dog bandana) and set up personalized pet products (custom dog name, e.g. "This Human Belongs To ___"), focusing on tees, sweatshirts and mugs. **Drafts only:** create them as unpublished Printify/Etsy drafts, with no publishing, no sample orders, and no price changes. Price them at the proposed levels (tee $23.99, sweatshirt $34.99, mug $15.99) as draft values only, then log the product IDs and mockup paths in `fureverfaces/new-designs-1117.md` with an [etsy] commit. No "AI" wording, and never name the dog. Etsy Studio reviews them, and Moondog88 decides to keep or toss each one.
+
 ## Also remember
 
 - No "AI" wording in listing copy, captions, hashtags, or on-screen text. TikTok's required AI-generated label stays on for AI visuals; that is the only AI mark.
